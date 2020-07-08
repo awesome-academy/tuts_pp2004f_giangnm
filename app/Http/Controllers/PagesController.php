@@ -18,6 +18,6 @@ class PagesController extends Controller
 
     public function contact()
     {
-        return view('project.contact');
+        return view('project.create');
     }
 }
